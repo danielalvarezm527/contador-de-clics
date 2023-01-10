@@ -11,6 +11,11 @@ function App() {
           alt='logo pagina'
           />
       </div>
+      <div className='contenedor-principal'>
+        <div>
+          
+        </div>
+      </div>
     </div>
   );
 }
